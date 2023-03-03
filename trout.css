@@ -5,9 +5,14 @@ img{
 }
 
 a{
-  color: navy;
+  color: rgba(245, 230, 217, 0.76);
   text-decoration: none;
   display: block;
+  background-color: maroon;
+  width: fit-content;
+  padding: 4px;
+  border-radius: 4px;
+  box-shadow: 3px 3px 8px rgb(71, 4, 4);
 
 }
 
