@@ -1,0 +1,17 @@
+img{
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a{
+  color: navy;
+  text-decoration: none;
+  display: block;
+
+}
+
+body{
+  color: black;
+  background-color: rgba(245, 230, 217, 0.76);
+}
